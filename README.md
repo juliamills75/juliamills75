@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juliamills75
 - 👀 I’m interested in Test Automation
-- 🌱 I’m currently learning Cypress
+- 🌱 I’m currently learning Playwright
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jmills@feature23.com
 
