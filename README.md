@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juliamills75
 - 👀 I’m interested in Test Automation
 - 🌱 I’m currently learning Playwright
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Test Automation
 - 📫 How to reach me jmills@feature23.com
 
 <!---
